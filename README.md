@@ -32,7 +32,7 @@
 </ul>
 
 <h2>🚀 Deployment</h2>
-<p>Guess what? We've taken the web application a step further by deploying and hosting it on Somee. Get ready to showcase your creation to the world! Access the live application by visiting <a href="https://your-application-url">https://your-application-url</a>.</p>
+<p>Guess what? We've taken the web application a step further by deploying and hosting it on Somee. Get ready to showcase your creation to the world! Access the live application by visiting <a href="http://www.ahmednaseerlabs.somee.com/"  target="_blank">VISIT</a>.</p>
 
 <h2>📚 Getting Started</h2>
 <p>Are you excited to get started? We thought so! Follow these simple steps to make the most out of this repository:</p>
